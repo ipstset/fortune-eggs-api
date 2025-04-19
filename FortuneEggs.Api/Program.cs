@@ -4,8 +4,8 @@ using FortuneEggs.Infrastructure.SqlData;
 
 var builder = WebApplication.CreateBuilder(args);
 // Bind to Render's expected port
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
-builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+//var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+//builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 builder.Services.AddControllers();
 
 // Register MediatR
