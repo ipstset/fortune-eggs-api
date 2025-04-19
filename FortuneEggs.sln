@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneEggs.Infrastructure"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneEggs.Api", "FortuneEggs.Api\FortuneEggs.Api.csproj", "{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{09F1C168-9294-4FD9-85D2-80693459AF2D}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+		.dockerignore = .dockerignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,10 @@ Global
 		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26} = {09F1C168-9294-4FD9-85D2-80693459AF2D}
+		{49C6890B-42C3-460B-B573-7DD3751C1439} = {09F1C168-9294-4FD9-85D2-80693459AF2D}
+		{27296013-5DE0-4C33-8A9E-E804EBF9A974} = {09F1C168-9294-4FD9-85D2-80693459AF2D}
 	EndGlobalSection
 EndGlobal
