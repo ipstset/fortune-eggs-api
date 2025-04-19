@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rHjiLUsl6dgMiIwzXFjNCM7BRdPzJU1EGQyPTP0e5JkOJGmoF4W11QJ8C426ljmuiuvKLBcfTeUrGKpoTwRew==",
+  "success": true,
+  "projectFilePath": "/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/FortuneEggs.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidhaug/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/Users/davidhaug/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/davidhaug/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

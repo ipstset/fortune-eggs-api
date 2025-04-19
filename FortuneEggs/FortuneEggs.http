@@ -1,0 +1,6 @@
+@FortuneEggs_HostAddress = http://localhost:5286
+
+GET {{FortuneEggs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

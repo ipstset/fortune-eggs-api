@@ -1,0 +1,12 @@
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/bin/Debug/net8.0/FortuneEggs.Application.deps.json
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/bin/Debug/net8.0/FortuneEggs.Application.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/bin/Debug/net8.0/FortuneEggs.Application.pdb
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.csproj.AssemblyReference.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.AssemblyInfoInputs.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.AssemblyInfo.cs
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.csproj.CoreCompileInputs.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/refint/FortuneEggs.Application.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/FortuneEggs.Application.pdb
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Application/obj/Debug/net8.0/ref/FortuneEggs.Application.dll

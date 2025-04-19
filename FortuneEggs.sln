@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneEggs.Application", "FortuneEggs.Application\FortuneEggs.Application.csproj", "{49C6890B-42C3-460B-B573-7DD3751C1439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneEggs.Infrastructure", "FortuneEggs.Infrastructure\FortuneEggs.Infrastructure.csproj", "{27296013-5DE0-4C33-8A9E-E804EBF9A974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneEggs.Api", "FortuneEggs.Api\FortuneEggs.Api.csproj", "{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C6890B-42C3-460B-B573-7DD3751C1439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C6890B-42C3-460B-B573-7DD3751C1439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C6890B-42C3-460B-B573-7DD3751C1439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C6890B-42C3-460B-B573-7DD3751C1439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27296013-5DE0-4C33-8A9E-E804EBF9A974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27296013-5DE0-4C33-8A9E-E804EBF9A974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27296013-5DE0-4C33-8A9E-E804EBF9A974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27296013-5DE0-4C33-8A9E-E804EBF9A974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699B52DE-DE1F-4A0E-B9DF-7C17D92E5D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

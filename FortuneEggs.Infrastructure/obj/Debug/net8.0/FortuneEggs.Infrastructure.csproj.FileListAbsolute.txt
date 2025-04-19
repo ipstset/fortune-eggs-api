@@ -1,0 +1,15 @@
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/bin/Debug/net8.0/FortuneEggs.Infrastructure.deps.json
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/bin/Debug/net8.0/FortuneEggs.Infrastructure.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/bin/Debug/net8.0/FortuneEggs.Infrastructure.pdb
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/bin/Debug/net8.0/FortuneEggs.Application.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/bin/Debug/net8.0/FortuneEggs.Application.pdb
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.csproj.AssemblyReference.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.AssemblyInfoInputs.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.AssemblyInfo.cs
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.csproj.CopyComplete
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/refint/FortuneEggs.Infrastructure.dll
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/FortuneEggs.Infrastructure.pdb
+/Users/davidhaug/RiderProjects/FortuneEggs/FortuneEggs.Infrastructure/obj/Debug/net8.0/ref/FortuneEggs.Infrastructure.dll

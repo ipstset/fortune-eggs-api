@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FortuneEggs.Api.props" />
+</Project>
